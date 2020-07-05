@@ -1,4 +1,7 @@
 ![Summer challenge poster](/Pictures/summerChallenge.png)
+<p align="center">
+  <img width="460" height="300" src="/Pictures/summerChallenge.png">
+</p>
 # Welcome to the CSUG Summer Challenge Series 1: CSS Challenge :fire:
 
 ### The CSUG e-board has created a website for our organization and we want YOUR help to design it with your ideas and creativity :sunglasses: :tada:
