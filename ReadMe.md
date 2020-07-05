@@ -10,7 +10,7 @@
 
 
 #### 1. How to participate:
-- [ ] Register on our google form: [registration form](https://forms.gle/ECbZNKfGBFrsf9xTA)
+- [ ] Register on our google form: [registration form](https://forms.gle/ECbZNKfGBFrsf9xTA) ***You must register in order for your submission to be counted***
 - [ ] Fork this repository (don't work directly on this repo since you won't have the permission to push your code)
 - [ ] Clone the repository to your local machine
 - [ ] Begin making changes to the CSS design of the website
