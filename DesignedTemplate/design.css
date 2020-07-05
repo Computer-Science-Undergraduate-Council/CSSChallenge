@@ -205,6 +205,17 @@ html {
   overflow: hidden;
 }
 
+.emilyPic {
+  border-radius: 50%;
+  border: 5px solid #113f77;
+  box-shadow: -15px 15px 5px rgba(0, 0, 0, 0.5);
+  width: 250px;
+  height: 250px;
+  background: url("../Pictures/E-board/Emily.jpg") center center / cover;
+  /* background: white; */
+  overflow: hidden;
+}
+
 .jerryPic {
   border-radius: 50%;
   border: 5px solid #113f77;
