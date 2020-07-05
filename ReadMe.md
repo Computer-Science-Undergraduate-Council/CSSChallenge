@@ -1,4 +1,4 @@
-!(summer challenge.png)
+![Summer challenge poster](summer challenge.png)
 # Welcome to the CSUG Summer Challenge Series 1: CSS Challenge :fire:
 
 ### The CSUG e-board has created a website for our organization and we want YOUR help to design it with your ideas and creativity :sunglasses: :tada:
