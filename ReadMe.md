@@ -2,6 +2,9 @@
 
 ### The CSUG e-board has created a website for our organization and we want YOUR help to design it with your ideas and creativity :sunglasses: :tada:
 
+### This event will take place at July 5th, 10 AM - July 6th, 10PM Eastern Standard Time.
+
+
 #### 1. How to participate:
 - [ ] Register on our google form: [registration form](https://forms.gle/ECbZNKfGBFrsf9xTA)
 - [ ] Fork this repository (don't work directly on this repo since you won't have the permission to push your code)
