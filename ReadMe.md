@@ -41,4 +41,5 @@
     
     In case you want a general idea for a layout, then feel free to use this. You are also free to modify this for your submission! (Even a changed color counts!)
 
-`Read-Me.`
+<div align="center"> <h6> Read-Me <h6> </div>
+
