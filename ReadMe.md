@@ -1,6 +1,6 @@
-Welcome to the CSUG Summer Challenge Series 1: CSS Challenge
+# Welcome to the CSUG Summer Challenge Series 1: CSS Challenge :fire:
 
-The CSUG e-board has created a website and we want your help to design it with your ideas and creativity.
+### The CSUG e-board has created a website for our organization and we want your help to design it with your ideas and creativity :sunglasses:
 
 Please fork this repository and then clone it to work with it. 
 Submission will be via a google form that will be linked here soon and will be emailed as well. 
