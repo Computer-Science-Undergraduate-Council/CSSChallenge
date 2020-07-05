@@ -1,4 +1,3 @@
-![Summer challenge poster](/Pictures/summerChallenge.png)
 <p align="center">
   <img width="800" height="250" src="/Pictures/summerChallenge.png">
 </p>
