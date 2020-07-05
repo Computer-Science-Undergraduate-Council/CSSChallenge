@@ -1,6 +1,6 @@
 ![Summer challenge poster](/Pictures/summerChallenge.png)
 <p align="center">
-  <img width="900" height="200" src="/Pictures/summerChallenge.png">
+  <img width="900" height="300" src="/Pictures/summerChallenge.png">
 </p>
 # Welcome to the CSUG Summer Challenge Series 1: CSS Challenge :fire:
 
